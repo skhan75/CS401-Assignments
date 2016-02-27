@@ -1,12 +1,4 @@
-/* ***********************************************************************************************************************************
- * Name: SAMI AHMAD KHAN
- * CWID: A20352677
- * Class: CS 401 
- * Assignment: Lab #1
- * Program: Program: To calculate Fuel Economy Value
- * Date: 01/20/2016
- * Instruction: Please find the Output File after "Output.txt" after running the program in the Application's Root folder like "/Users/SamAK/Documents/workspace/CS401" 
- * ***********************************************************************************************************************************/
+
 
 import java.io.BufferedWriter;
 import java.io.File;
