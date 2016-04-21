@@ -1,4 +1,12 @@
-
+package Lab6;
+/*************************************************************************
+ * NAME: Sami Ahmad Khan
+ * CWID: A20352677
+ * Lab # 06
+ * DATE: 02/24/2016
+ * TOPIC: "Linked List, Doubly Linked List and Sorted Linked List
+ * @author SamAK
+ *************************************************************************/
 public class LinkedListMain
 {
    public static void main(String[] args)

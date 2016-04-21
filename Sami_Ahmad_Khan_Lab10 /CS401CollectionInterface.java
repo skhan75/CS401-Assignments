@@ -1,4 +1,4 @@
-package Lab6;
+package Lab10;
 /*************************************************************************
  * NAME: Sami Ahmad Khan
  * CWID: A20352677
@@ -38,8 +38,11 @@ public interface CS401CollectionInterface<E>
     *
     * It is expected that classes that extend this interface will
     * provide an order on how the element is added to the collection. 
+ * @param iD 
+ * @param middleName 
+ * @param firstName 
     */
-   public boolean add(E e);
+   public boolean add(String lastName, String firstName, String middleName, long iD);
 
    /**
     * Remove the specified element.
@@ -58,5 +61,5 @@ public interface CS401CollectionInterface<E>
     *
     * @return true - if e was in the list, false otherwise.
     */
-   public boolean contains(E e);
+   public String contains(long iD);
 }
